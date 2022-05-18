@@ -1,3 +1,6 @@
+html * {
+    box-sizing: border-box;
+}
 .logo{
     height: 200px;
     background-color: rgb(26, 188, 156);
@@ -70,8 +73,9 @@
 }
 .right{
     float: right;
-    width: 68%;
+    width: 70%;
     margin-top: 4px;
+    padding-left: 15px;
 }
 
 footer{
