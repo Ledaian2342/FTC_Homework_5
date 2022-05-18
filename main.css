@@ -1,0 +1,88 @@
+.logo{
+    height: 200px;
+    background-color: rgb(26, 188, 156);
+    text-align: center;
+    color: #fff;
+    line-height: 200px;
+    margin-bottom: -12px;
+}
+
+.logo h1{
+    margin-bottom: -170px;
+}
+
+.menu{
+    background-color: rgb(51, 51, 51);
+    height: 40px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: #fff;
+    line-height: 40px;
+    padding-left: 10px;
+    font-size: 14pt;
+}
+
+.menu ul{
+    padding: 0;
+}
+.menu ul li{
+    list-style: none;
+    display: inline;
+}
+
+.menu .right a{
+    float: right;
+    margin-right: 20px;
+}
+
+.left{
+    height: 100%;
+    width: 30%;
+    float: left;
+    background-color:rgb(241, 241, 241);
+    padding-left: 20px;
+}
+
+.img{
+    height: 190px;
+    background-color: rgb(170, 170, 170);
+    font-size: 20pt;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.img-small{
+    height: 50px;
+    background-color: rgb(170, 170, 170);
+    font-size: 14pt;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.img-lag{
+    height: 190px;
+    background-color: rgb(170, 170, 170);
+    font-size: 14pt;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+.right{
+    float: right;
+    width: 68%;
+    margin-top: 4px;
+}
+
+footer{
+    background-color: rgb(221, 221, 221);
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+    margin-top: 10px;
+    font-size: 25pt;
+}
+
+.abc{
+    height: 800px;
+}
