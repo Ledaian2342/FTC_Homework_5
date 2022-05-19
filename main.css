@@ -7,7 +7,7 @@ html * {
     text-align: center;
     color: #fff;
     line-height: 200px;
-    margin-bottom: -12px;
+    margin-bottom: -16px;
 }
 
 .logo h1{
@@ -35,9 +35,9 @@ html * {
     display: inline;
 }
 
-.menu .right a{
+.right-ul{
     float: right;
-    margin-right: 20px;
+    margin: 0 25px;
 }
 
 .left{
